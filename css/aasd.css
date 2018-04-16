@@ -9,6 +9,21 @@ h1 {
 	text-transform: none;
 	line-height: 6rem;
 }
+h2 {
+	font-family: inherit;
+	text-transform: none;
+	line-height: 6rem;
+}
+h3 {
+	font-family: inherit;
+	text-transform: none;
+	line-height: 6rem;
+}
+h4 {
+	font-family: inherit;
+	text-transform: none;
+	line-height: 6rem;
+}
 
 .subheading {
 	font-family: inherit;
